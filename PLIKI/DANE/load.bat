@@ -1,0 +1,11 @@
+sqlldr hr@localhost/hr control=wojewodztwo.ctl
+sqlldr hr@localhost/hr control=miasto.ctl
+sqlldr hr@localhost/hr control=sklep.ctl
+sqlldr hr@localhost/hr control=rok.ctl
+sqlldr hr@localhost/hr control=miesiac.ctl
+sqlldr hr@localhost/hr control=dzien.ctl
+sqlldr hr@localhost/hr control=pracownik.ctl
+sqlldr hr@localhost/hr control=kategoria.ctl
+sqlldr hr@localhost/hr control=produkt.ctl
+sqlldr hr@localhost/hr control=typ_platnosci.ctl
+sqlldr hr@localhost/hr control=sprzedaz.ctl
